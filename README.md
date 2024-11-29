@@ -1,5 +1,5 @@
 # ManhwaLand
-**ManwhaLand** es una plataforma dedicada a los aficionados del manhwa y manhua, ofreciendo una experiencia única de compra de copias físicas y acceso digital exclusivo. Nuestro objetivo es conectar a los fanáticos con las mejores historias, ediciones limitadas y productos coleccionables directamente desde los paises asiaticos.  
+**ManwhaLand** es una plataforma dedicada a los aficionados del manhwas, ofreciendo una experiencia única de compra de copias físicas y acceso digital exclusivo. Nuestro objetivo es conectar a los fanáticos con las mejores historias, ediciones limitadas y productos coleccionables directamente desde los paises asiaticos.  
 
 ---
 
@@ -31,10 +31,10 @@
 ---
 
 ## 🤝 **Socios Clave**  
-- Editoriales y distribuidores en Corea y China.  
+- Editoriales y distribuidores en Corea.  
 - Plataformas de envío y logística.  
 - Tiendas de cultura pop y cómics.  
-- Influencers y comunidades de fanáticos del manhwa y manhua.  
+- Influencers y comunidades de fanáticos del manhwa.  
 
 ---
 
@@ -71,7 +71,7 @@ Explora nuestros recursos y modelos de negocio:
 ---
 
 ## 🧩 **¿Cómo Contribuir?**  
-¡Estamos buscando colaboradores apasionados por el mundo del manhwa y manhua! Puedes contribuir en:  
+¡Estamos buscando colaboradores apasionados por el mundo del manhwa! Puedes contribuir en:  
 - Desarrollo web y diseño UI/UX.  
 - Marketing y manejo de redes sociales.  
 - Curación de contenido y actualización de catálogo.  
