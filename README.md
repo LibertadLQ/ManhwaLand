@@ -50,6 +50,7 @@ Explora nuestros recursos y modelos de negocio:
 - [Lean Startup Canvas](https://drive.google.com/file/d/1OPKx8AmLpMz98wcmTaKZeXKUoXqeQO9b/view?usp=share_link)  
 - [Business Model Canvas](https://drive.google.com/file/d/1ZdyWXScHmHos__w7UPPvsIPFjwHxGbAj/view?usp=sharing)
 - [Design thinking](https://drive.google.com/file/d/1YjyB4vGfnMvf4FhU5iTKcY1QQ7BZdkr4/view?usp=sharing)
+- [ManwhaLand Drive - Otros Documentos](https://drive.google.com/drive/folders/1wlP8pkQrkJlbAEBmzBIySXTc8AMkjuIZ?usp=sharing)  
 - [ManwhaLand Presentación en Canva](https://www.canva.com/design/DAGXob9-ZOU/VjTbQ4IVlnj3Z0JAfJQHsA/edit?utm_content=DAGXob9-ZOU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
 
 ---
